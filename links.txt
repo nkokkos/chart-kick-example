@@ -1,0 +1,5 @@
+use example from here 
+https://github.com/msurguy/laravel-charts/blob/master/app/views/stats.blade.php
+https://www.sitepoint.com/graphs-on-rails-chartkick-in-practice/
+https://raw.githubusercontent.com/nkokkos/health-data-recorder/master/app/views/measures/show.html.erb
+to port example to chartkick
